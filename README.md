@@ -3,7 +3,7 @@
 ### 그냥 심심해서 집에서 만들어봤습니다 ..
 ### 총 제작시간 10일
 #### Tool : Arduino C(IDE), Catia V5 R20, MIT APP INVENTOR 2
-#### Arduino UNO, 5v battery, bluetooth module, On/Off Switch, Blue LED x4, 3D Model & Printer
+#### Arduino UNO, 5v battery, bluetooth module, On/Off Switch, Blue LED x4, 3D Model & Printer + 극한의 사포질 + 서페이서도포 후 아크릴페인트 색칠
 
 <img src="https://user-images.githubusercontent.com/58325946/216488866-e8996b08-fa8a-47ca-b005-de4ffd85a7e4.png" width="500" height="500"> <img src="https://user-images.githubusercontent.com/58325946/216489019-bc88a128-8486-4909-8368-d22c3f823943.png" width="500" height="500">
 
